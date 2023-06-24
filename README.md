@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning
 Some simple machine learning models
 
 - Linear Regression on BTC-USD
